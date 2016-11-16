@@ -1,0 +1,133 @@
+#head{
+	border-bottom: 4px solid #176fbb;
+	width: 100%;
+}
+#head_con{
+	width: 1000px;
+	height: 120px;
+	margin: 0 auto;
+}
+#head_con_1{
+	float: left;
+	margin-top: 10px;
+}
+#head_con_2{
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+	overflow: hidden;
+	font-size: 14px;
+}
+#head_con_2 img{
+	float: left;
+	margin-top: 15px;
+}
+#head_con_2 .xl{
+	margin-left: 16px;
+	margin-right: -16px;
+}
+#head_con_2 span{
+	float: left;
+	margin-top: 20px;
+	margin-left: 16px;
+	font-size: 14px;
+	color: #3c3c3c ;
+}
+#head_con_2 .sz{
+	color: #ffa000;
+}
+#head_con_2 .dl{
+	border-left: 1px solid #3c3c3c;
+	border-right: 1px solid #3c3c3c;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+#head_con_2 .zc{
+	border-right: 1px solid #3c3c3c;
+	padding-right: 16px;
+}
+#head_con_2 input{
+	width: 160px;
+	height: 24px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 16px;
+
+}
+#head_con_3{
+	float: right;
+	margin: -40px 100px 10px 65px;
+	overflow: hidden;
+	font-size: 18px;
+	color: #3c3c3c;
+}
+#head_con_3 img{
+	float: left;
+	margin-top: 6px;
+}
+#head_con_3 span{
+	float: left;
+	margin-left: 45px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+#bottom{
+	background: #023c4d;
+	height: 245px;
+	width: 100%;
+	margin-top: 32px;
+	color: #fff;
+}
+#bottom_top{
+	border-bottom: 1px solid #fff;
+}
+#bottom_top_con{
+	overflow: hidden;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+#bottom_top_con p{
+	margin-bottom: 5px;
+}
+#bottom_top_1,#bottom_top_2,#bottom_top_3,#bottom_top_4{
+	float: left;
+	margin-right: 80px;
+	font-size: 14px;
+	margin-top: 5px;
+}
+#bottom_top_1 .gy,#bottom_top_2 .bz,#bottom_top_3 .tk,#bottom_top_4 .gz,
+#bottom_top_5
+{
+	font-size: 18px;
+}
+#bottom_top_4 .wb{
+	margin-left: -5px;
+}
+#bottom_top_4 .gz{
+	margin-bottom: 15px;
+}
+#bottom_top_5{
+	float: left;
+}
+#bottom_top_5 .sz{
+	font-size: 28px;
+}
+#bottom_top_5 .zx{
+	margin-left: 5px;
+	margin-top: 5px;
+}
+#bottom_top_5 div{
+	font-size: 14px;
+	width: 115px;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	background: #fff;
+	color: #023c4d;
+}
+#bottom_bot{
+	text-align: center;
+	height: 55px;
+	line-height: 55px;
+	margin-top: 10px;
+}
